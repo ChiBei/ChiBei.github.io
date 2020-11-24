@@ -1,8 +1,8 @@
 ---
-name: Empty Project
-tools: [Node JS, JavaScript, HTML, CSS]
+name: 一个项目
+tools: [Pandas,Python]
 image:
-description: This project has no image or showcase page
+description: 实战
 ---
 
 # 1.准备工作
