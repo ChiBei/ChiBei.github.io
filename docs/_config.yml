@@ -1,3 +1,4 @@
+future：true
 ### Site Settings ###
 title               : portfolYOU
 description         : >-
@@ -47,14 +48,14 @@ author:
 
 
 ### Posts ###
-permalink: /blog/:title
+#permalink: /blog/:title
 
 
 ### Collections ###
 collections:
   projects:
     output: true
-    permalink: /projects/:name
+#    permalink: /projects/:name
   elements:                                             # For Documentation Only
     output: true                                        # For Documentation Only
 
