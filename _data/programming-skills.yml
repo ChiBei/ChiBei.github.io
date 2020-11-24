@@ -1,11 +1,11 @@
 - name: Python
   percentage: 30
-  color:dark
+  color: dark
 
 - name: Java
   percentage: 20
-  color:danger
+  color: danger
 
 - name: Android
   percentage: 40
-  color:success
+  color: success
