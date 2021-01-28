@@ -4,10 +4,10 @@
 #- secondary / success绿色 / danger红色 / warning / info水鸭青 / light / dark黑色、primary蓝色
 
 - name: Adobe Illustrator
-  percentage: 80
+  percentage: 40
   color: warning
 
 - name: Pandas
-  percentage: 30
+  percentage: 25
   color: secondary
 
