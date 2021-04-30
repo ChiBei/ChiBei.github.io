@@ -3,7 +3,7 @@
 #  color: info
 #- secondary / success绿色 / danger红色 / warning / info水鸭青 / light / dark黑色、primary蓝色
 
-- name: Adobe Illustrator
+- name: Illustrator
   percentage: 40
   color: warning
 

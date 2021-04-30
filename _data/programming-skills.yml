@@ -1,20 +1,20 @@
-#- name: C
-#  percentage: 50
-#  color: primary
-#
-#- name: Python
-#  percentage: 20
-#  color: dark
-#
-#- name: Android
-#  percentage: 25
-#  color: success
-#
-#- name: 小程序开发
-#  percentage: 20
-#  color: success
-#
-#- name: Java
-#  percentage: 20
-#  color: danger
+- name: C
+  percentage: 50
+  color: primary
+
+- name: Python
+  percentage: 20
+  color: dark
+
+- name: Android
+  percentage: 25
+  color: success
+
+- name: 微信小程序
+  percentage: 20
+  color: success
+
+- name: Java
+  percentage: 20
+  color: danger
 
