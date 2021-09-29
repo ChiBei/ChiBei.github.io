@@ -1,4 +1,10 @@
-# for-each循环应用于String中每个字符
+---
+title: for-each循环应用于String中每个字符
+tags: [Java]
+style: fill
+color: light
+description: Java笔记。
+---
 
 for循环遍历String，使用charAt( i )，index从 0 ~ length-1。
 
