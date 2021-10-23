@@ -7,7 +7,5 @@
   percentage: 40
   color: warning
 
-- name: Pandas
-  percentage: 25
-  color: secondary
+
 

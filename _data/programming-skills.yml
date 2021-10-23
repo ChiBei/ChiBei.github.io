@@ -3,9 +3,13 @@
   color: primary
 
 - name: Python
-  percentage: 20
+  percentage: 30
   color: dark
 
+- name: Pandas
+  percentage: 25
+  color: secondary
+  
 - name: Android
   percentage: 25
   color: success
