@@ -1,6 +1,6 @@
 ---
 title: Python实现PCA主成分分析算法
-tags: [机器学习][PCA主成分分析][Pandas][Python]
+tags: [机器学习]
 style: fill
 color: light
 description: Python实现PCA主成分分析算法，直接调用，同时涉及到pandas绘图。
