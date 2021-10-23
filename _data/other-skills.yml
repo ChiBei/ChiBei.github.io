@@ -7,5 +7,13 @@
   percentage: 40
   color: warning
 
+- name: Blender
+  percentage: 20
+  color: secondary
+
+- name: Cinema 4D
+  percentage: 20
+  color: info
+
 
 
