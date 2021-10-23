@@ -4,7 +4,7 @@
 #- secondary / success绿色 / danger红色 / warning / info水鸭青 / light / dark黑色、primary蓝色
 
 - name: Illustrator
-  percentage: 40
+  percentage: 60
   color: warning
 
 - name: Blender
