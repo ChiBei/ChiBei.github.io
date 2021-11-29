@@ -2,6 +2,10 @@
   percentage: 60
   color: danger 
 
+- name: Android
+  percentage: 50
+  color: success
+
 - name: C
   percentage: 50
   color: primary
@@ -9,15 +13,3 @@
 - name: Python
   percentage: 30
   color: dark
-
-- name: Android
-  percentage: 30
-  color: success
-
-- name: Pandas
-  percentage: 25
-  color: secondary
-  
-- name: 微信小程序
-  percentage: 20
-  color: success
