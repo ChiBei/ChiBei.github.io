@@ -6,14 +6,14 @@
   percentage: 50
   color: success
 
+- name: kotlin
+  percentage: 40
+  color: info
+
 - name: C
-  percentage: 50
+  percentage: 40
   color: primary
 
 - name: Python
   percentage: 30
   color: dark
-
-- name: Kotlin
-  percentage: 30
-  color: info
