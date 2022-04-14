@@ -7,7 +7,7 @@ weight: 3
 
 # **关于我**
 
-朋友你好，我是 **{{ site.author.name }}** :wave:,<br>
+朋友你好，我是 **{{ site.author.name }}** :wave:<br>
 
 <div class="row">
 {% include about/skills.html title="编程技能" source=site.data.programming-skills %}
