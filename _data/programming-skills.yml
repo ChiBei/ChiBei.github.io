@@ -1,10 +1,14 @@
+- name: C++
+  percentage: 70
+  color: dark
+
+- name: Java
+  percentage: 70
+  color: danger 
+
 - name: Android
   percentage: 60
   color: success
-
-- name: Java
-  percentage: 50
-  color: danger 
 
 - name: kotlin
   percentage: 40
