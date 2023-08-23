@@ -5,5 +5,15 @@
 
 - title: 本科, 某大学
   from: 2020
-  to: 现在
+  to: 2022
   description: 计算机科学与技术
+
+- title: 后台开发工程师, 某公司
+from: 2022
+to: 2023
+description: 好
+
+- title: 其他, 某大学
+from: 2023
+to: 现在
+description: 好
