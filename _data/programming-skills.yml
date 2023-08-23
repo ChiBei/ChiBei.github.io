@@ -23,5 +23,5 @@
   color: dark
 
 - name: QT
-percentage: 30
-color: success
+  percentage: 30
+  color: success
